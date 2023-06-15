@@ -4,6 +4,7 @@
 
 ### PDF
 PopupPDFBehaviour_9CFFC451_8D86_EB13_41DB_84C4F9CE78B9.url = files/Brochure2_en.pdf
+PopupPDFBehaviour_B1CE77AE_A0D1_3BB5_41E0_DC20C6FD3F7A.url = files/Brochure2_en.pdf
 
 ## Media
 
@@ -165,30 +166,32 @@ window_79DB508F_6D8E_EB50_41D7_9C74AC6DA62B.title = Whooping Crane
 ## Skin
 
 ### Button
-Button_D2A64E5B_DD87_7BC4_41E1_F5B01E9022AE_mobile.label = Home
+Button_D2A64E5B_DD87_7BC4_41E1_F5B01E9022AE_mobile.label = Lobby
 Button_D2A64E5B_DD87_7BC4_41E1_F5B01E9022AE.label = Lobby
-Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF.pressedLabel = Location
 Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF_mobile.pressedLabel = Location
-Button_D2A7AE5B_DD87_7BC4_41E3_089CABA0C4AB_mobile.label = Room 1
-Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF_mobile.label = Room 2
-Button_D2A7CE5B_DD87_7BC4_41DB_AAFBF7DF1AFC_mobile.label = Room 3
-Button_D2A73E5B_DD87_7BC4_41E8_B2B7884916C8_mobile.label = Room 4
-Button_D2A76E5B_DD87_7BC4_41E0_04A475AAA440_mobile.label = Room 5
+Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF.pressedLabel = Location
 Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF.label = The Chameleon Room
+Button_D2A79E5B_DD87_7BC4_41AE_A70598AC09FF_mobile.label = The Chameleon Room
+Button_D2A7AE5B_DD87_7BC4_41E3_089CABA0C4AB_mobile.label = The Historian Room
 Button_D2A7AE5B_DD87_7BC4_41E3_089CABA0C4AB.label = The Historian Room
+Button_D2A73E5B_DD87_7BC4_41E8_B2B7884916C8_mobile.label = The Sensitive Room
 Button_D2A73E5B_DD87_7BC4_41E8_B2B7884916C8.label = The Sensitive Room
+Button_D2A76E5B_DD87_7BC4_41E0_04A475AAA440_mobile.label = The Thrill Seeker Room
 Button_D2A76E5B_DD87_7BC4_41E0_04A475AAA440.label = The Thrill Seeker Room
 Button_D2A7CE5B_DD87_7BC4_41DB_AAFBF7DF1AFC.label = The Traditionalist Room
+Button_D2A7CE5B_DD87_7BC4_41DB_AAFBF7DF1AFC_mobile.label = The Traditionalist Room
 
 ### Image
+Image_B01A17DE_A0D1_1B95_41E1_363C4B214B3E.url = skin/Image_B01A17DE_A0D1_1B95_41E1_363C4B214B3E_en.png
 Image_CD26C898_DD85_2779_41E3_98C3E75D6BAB.url = skin/Image_CD26C898_DD85_2779_41E3_98C3E75D6BAB_en.png
 Image_CD26C898_DD85_2779_41E3_98C3E75D6BAB_mobile.url = skin/Image_CD26C898_DD85_2779_41E3_98C3E75D6BAB_mobile_en.png
 
 ### Label
 Label_5A4DAB1F_49FE_469D_41B6_14F517801EAF.text = {{title}}
+Label_B11A23F5_A0D1_1B90_41DC_772AFC86EB1B.text = {{title}}
 
 ### Multiline Text
-HTMLText_D2A4AE5B_DD87_7BC4_41DB_A7A5403A441E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;word-break:break-word;font-family:'Source Sans Pro';"><I>DePaul Art Museum</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://resources.depaul.edu/art-museum/Pages/default.aspx" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0066ff;font-size:20px;word-break:break-word;font-family:'Source Sans Pro';"><I>visit DPAM website</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;word-break:break-word;font-family:'Source Sans Pro';"><I>artmuseum@depaul.edu</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;word-break:break-word;font-family:'Source Sans Pro';"><I>(773) 325-7506</I></SPAN></SPAN></DIV></div>
+HTMLText_D2A4AE5B_DD87_7BC4_41DB_A7A5403A441E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8818756778837369vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.88vmin;word-break:break-word;font-family:'Source Sans Pro';"><I>DePaul Art Museum</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8818756778837369vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.18vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://resources.depaul.edu/art-museum/Pages/default.aspx" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0057b7;font-size:1.88vmin;word-break:break-word;font-family:'Source Sans Pro';"><I><U>visit DPAM website</U></I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8818756778837369vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.88vmin;word-break:break-word;font-family:'Source Sans Pro';"><I>artmuseum@depaul.edu</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8818756778837369vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.88vmin;word-break:break-word;font-family:'Source Sans Pro';"><I>(773) 325-7506</I></SPAN></SPAN></DIV></div>
 HTMLText_D2A4AE5B_DD87_7BC4_41DB_A7A5403A441E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;word-break:break-word;font-family:'Source Sans Pro';"><I>DePaul Art Museum</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://resources.depaul.edu/art-museum/Pages/default.aspx" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0066ff;font-size:10px;word-break:break-word;font-family:'Source Sans Pro';"><I>visit DPAM website</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;word-break:break-word;font-family:'Source Sans Pro';"><I>artmuseum@depaul.edu</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;word-break:break-word;font-family:'Source Sans Pro';"><I>(773) 325-7506</I></SPAN></SPAN></DIV></div>
 
 ### Tooltip
@@ -209,14 +212,14 @@ tour.name = DPAM Virtual Experience
 ## VR Menu
 
 ### Text
-MenuItem_BAA51A81_97C0_B31D_41D0_15A361CBD863.label = 2nd Floor
-MenuItem_BAA49A80_97C0_B31B_41DC_D142FFAF866B.label = 2nd Floor
-MenuItem_BAAA5A81_97C0_B31D_41D4_D680B0211B03.label = Lobby
-MenuItem_BAAA6A81_97C0_B31D_41E1_10286463D0BD.label = Lobby
+MenuItem_80BD5A45_A0D1_1486_41D4_2FC93901A400.label = 2nd Floor
+MenuItem_80BDAA45_A0D1_1486_41E0_D1E98B09D700.label = 2nd Floor
+MenuItem_80BD7A45_A0D1_1486_41E0_58535C299BDB.label = Lobby
+MenuItem_80BD8A45_A0D1_1486_41CC_B83D69D54314.label = Lobby
 Menu_D501E6F8_C464_84EB_41B8_D8F383E2EA79.label = Media
-MenuItem_BAA4CA81_97C0_B31D_41C9_E7E910BF1864.label = Stairs
-MenuItem_BAA59A81_97C0_B31D_41A8_AAEE45C17894.label = The Chameleon
-MenuItem_BAAA0A81_97C0_B31D_41E1_0445A4C652D2.label = The Historian
-MenuItem_BAA5BA81_97C0_B31D_41B8_AB79C7240B8B.label = The Sensitive
-MenuItem_BAA5CA81_97C0_B31D_41E1_416F02476466.label = The Thrill Seeker
-MenuItem_BAA50A81_97C0_B31D_41C4_170198D35CDF.label = The Traditionalist
+MenuItem_80BD1A45_A0D1_1486_41BB_B8DAE4438119.label = Stairs
+MenuItem_80BDEA45_A0D1_1486_41DC_F5739F2C6F1A.label = The Chameleon
+MenuItem_80BDBA45_A0D1_1486_41E2_827B10F9823C.label = The Historian
+MenuItem_80BD9A45_A0D1_1486_41B9_727312966F8B.label = The Sensitive
+MenuItem_80BD6A45_A0D1_1486_419F_662C277B8DFB.label = The Thrill Seeker
+MenuItem_80BD4A45_A0D1_1486_41B6_1E212D1190DF.label = The Traditionalist
